@@ -139,18 +139,18 @@
 }
 
 .tooltip_usa {
-	top: 34%;
-	left: 15%;
+	top: 44%;
+	left: 25%;
 }
 
 .tooltip_venezuela {
-	top: 41%;
-	left: 19%;
+	top: 59%;
+	left: 31%;
 }
 
 .tooltip_dominicana {
-	top: 43%;
-	left: 22%;
+	top: 54%;
+	left: 30%;
 }
 #USA, #turkey, #brazil, #venezuela, #latvia, #gb, #portugal, #dominic, #africa {
 	transition: all .6s;
@@ -182,33 +182,33 @@
 
 
 .tooltip_brazil {
-	top: 61%;
-	left: 26%;
+	top: 66%;
+	left: 35%;
 }
 
 .tooltip_gb {
-	top: 24%;
-	left: 42%;
+	top: 34%;
+	left: 45%;
 }
 
 .tooltip_latvia {
-	top: 26%;
-	left: 47%;
+	top: 34%;
+	left: 49.5%;
 }
 
 .tooltip_portugal {
-	top: 31%;
-	left: 39%;
+	top: 44%;
+	left: 42.7%;
 }
 
 .tooltip_turkey {
-	top: 33%;
-	left: 46%;
+	top: 44%;
+	left: 52%;
 }
 
 .tooltip_africa {
-	top: 50%;
-	left: 49%;
+	top: 55%;
+	left: 51%;
 }
 
 .accordion {
